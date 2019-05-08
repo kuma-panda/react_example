@@ -1,4 +1,4 @@
-# react application example
+# React application example
 
 ## Description
 This is the first sample application that uses react.   
